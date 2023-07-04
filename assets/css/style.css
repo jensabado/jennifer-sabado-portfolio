@@ -24,7 +24,7 @@
 }
 
 body {
-  font-family: "Space Mono", Arial, serif !important;
+  font-family: "Space Mono", Arial, serif;
   background-color: #040404;
   color: #fff;
   position: relative;
@@ -63,7 +63,7 @@ a:hover {
 
 /* added new */
 h1{
-  font-family: "Space Mono", Arial, serif !important;
+  font-family: "Space Mono", Arial, serif;
   /* font-style: italic !important; */
 }
 /* added new */
@@ -74,7 +74,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Space Mono", Arial, serif !important;
+  font-family: "Space Mono", Arial, serif;
 }
 
 /*--------------------------------------------------------------
@@ -95,14 +95,12 @@ h6 {
 }
 
 #header h1 {
-  position: relative;
-  top: 10px;
   font-size: 60px;
   margin: 0;
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  font-family: "Space Mono", Arial, serif !important;
+  font-family: "Space Mono", Arial, serif;
   /* border: 1px solid red */
   
 }
@@ -243,7 +241,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 0;
-  font-family: "Space Mono", Arial, serif !important;
+  font-family: "Space Mono", Arial, serif;
   font-size: 16px;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.7);
@@ -398,7 +396,7 @@ section .container {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Space Mono", Arial, serif !important;
+  font-family: "Space Mono", Arial, serif;
 }
 
 .section-title h2::after {
@@ -416,7 +414,7 @@ section .container {
   font-size: 35px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Space Mono", Arial, serif !important;
+  font-family: "Space Mono", Arial, serif;
   color: whitesmoke;
 }
 
@@ -493,7 +491,7 @@ section .container {
 .counts .count-box p {
   padding: 0;
   margin: 0;
-  font-family: "Space Mono", Arial, serif !important;
+  font-family: "Space Mono", Arial, serif;
   font-size: 14px;
 }
 
@@ -513,7 +511,7 @@ section .container {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Space Mono", Arial, serif !important;
+  font-family: "Space Mono", Arial, serif;
   color: #fff;
 }
 
@@ -664,7 +662,7 @@ section .container {
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Space Mono", Arial, serif !important;
+  font-family: "Space Mono", Arial, serif;
   color: #e27396;
   margin-bottom: 10px;
 }
