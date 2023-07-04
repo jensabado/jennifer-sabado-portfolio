@@ -24,7 +24,7 @@
 }
 
 body {
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Space Mono";
   background-color: #040404;
   color: #fff;
   position: relative;
@@ -63,7 +63,7 @@ a:hover {
 
 /* added new */
 h1{
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Space Mono";
   /* font-style: italic !important; */
 }
 /* added new */
@@ -74,7 +74,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Space Mono";
 }
 
 /*--------------------------------------------------------------
@@ -100,7 +100,7 @@ h6 {
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Space Mono";
   /* border: 1px solid red */
   
 }
@@ -241,7 +241,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 0;
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Space Mono";
   font-size: 16px;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.7);
@@ -396,7 +396,7 @@ section .container {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Space Mono";
 }
 
 .section-title h2::after {
@@ -414,7 +414,7 @@ section .container {
   font-size: 35px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Space Mono";
   color: whitesmoke;
 }
 
@@ -491,7 +491,7 @@ section .container {
 .counts .count-box p {
   padding: 0;
   margin: 0;
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Space Mono";
   font-size: 14px;
 }
 
@@ -511,7 +511,7 @@ section .container {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Space Mono";
   color: #fff;
 }
 
@@ -662,7 +662,7 @@ section .container {
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Space Mono";
   color: #e27396;
   margin-bottom: 10px;
 }
