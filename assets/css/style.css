@@ -98,7 +98,7 @@ h6 {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background-color: rgba(0, 0, 0, 0.7);
+	background-color: rgba(0, 0, 0, 0.3);
 	display: none;
 	z-index: 1000;
 }
@@ -117,11 +117,11 @@ h6 {
 	z-index: 1500;
 	top: 50%;
 	left: 50%;
-	padding: 20px;
+	padding: 15px;
 	transform: translate(-50%, -50%);
-	box-shadow: 2px 2px 7px 3px rgba(255, 255, 255, 0.1);
-	-webkit-box-shadow: 2px 2px 7px 3px rgba(255, 255, 255, 0.1);
-	-moz-box-shadow: 2px 2px 7px 3px rgba(255, 255, 255, 0.1);
+	box-shadow: 2px 2px 7px 3px rgba(226, 115, 150, 0.3);
+	-webkit-box-shadow: 2px 2px 7px 3px rgba(226, 115, 150, 0.3);
+	-moz-box-shadow: 2px 2px 7px 3px rgba(226, 115, 150, 0.3);
 	display: none;
 }
 
@@ -163,7 +163,7 @@ h6 {
 }
 
 .modal .modal-body {
-	margin-top: 20px;
+	margin-top: 10px;
 	height: auto;
 	padding: 0;
 }
